@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+my_env/
+
+# VS Code settings
+.vscode/
+
+# Mac OS metadata
+.DS_Store
+
+# Jupyter runtime files
+*.json
+*.sqlite
+
+# Logs
+*.log
+
+# Spyder settings
+.spyderproject
+.spyproject
+
+# PyCharm
+.idea/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.feather
+*.h5
+*.db
+
+# Model files
+*.pkl
+*.joblib
+*.hdf5
+*.pt
+*.onnx
+
+# Results / figures
+figures/
+outputs/
+reports/
